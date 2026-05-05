@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "source": "npm:pi-vim",
+      "extensions": [
+        "+index.ts"
+      ]
+    }
+  ]
+}

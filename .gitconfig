@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
+[user]
+	name = Ben Bauer
+	email = benbauer314@gmail.com
